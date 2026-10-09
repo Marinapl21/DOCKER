@@ -23,7 +23,7 @@ Aquí, lo único será irnos a la página de docker y buscar el apartado de Dock
 ## Paso 3: Instalado
 Vemos que lo instalamos.
 
-![Instalado](FotosDocker/instalación.png)
+![Instalado](FotosDocker/instalacion.png)
 
 ## Paso 4: Status y versión
 En este punto usamos la Powershell, ejecutando como administradores o no, y hacemos un **wsl -l -v**. Aqui vemos el status y la versión de Ubuntu y docker-desktop.
